@@ -1,0 +1,7 @@
+{
+    "min_game_width": 150,
+    "min_game_height": 30,
+    "ball_speed": 4,
+    "platform_size": 11,
+    "platform_speed": 3
+}
